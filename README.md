@@ -5,9 +5,9 @@
 <div align="center"><img width="436" height="214" alt="image" src="https://github.com/user-attachments/assets/b588bba1-d237-4e53-a479-7c0a41534946" />
 
 
-<p align="center">$\color{#fff0d1}{\textsf{ƒᥲntᥲ⠀⠀ /⠀⠀ ᥲni⠀⠀ ♡ ‿ ‎　‎ ⑅ 🎼}}$
+<p align="center">$\color{#575757}{\textsf{ƒᥲntᥲ⠀⠀ /⠀⠀ ᥲni⠀⠀ ♡ ‿ ‎　‎ ⑅ 🎼}}$
 
-<p align="center">$\color{#ffffeb}{\textsf{⠀ 𐔌 ݂۫ 𓏼 𝒽ᥱ𝒽im⠀ ⠀⠀ ⠀isfp⠀ ⠀⠀ ⠀⑤tᥱᥱn⠀ ♪}}$
+<p align="center">$\color{#808080}{\textsf{⠀ 𐔌 ݂۫ 𓏼 𝒽ᥱ𝒽im⠀ ⠀⠀ ⠀isfp⠀ ⠀⠀ ⠀⑤tᥱᥱn⠀ ♪}}$
 
-<p align="center">$\tiny\color{#ffffeb}{\textsf{𓎢byakuya togami yume, other yumes iwc!𓎡}}$
+<p align="center">$\tiny\color{#8e8e8e}{\textsf{𓎢palegun addict𓎡}}$
 
